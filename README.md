@@ -10,13 +10,7 @@
     <img alt=Support height="390" src="https://files.catbox.moe/tjhxsh.jpg">
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></n>
-
-<p align="center">
-<a href='https://github.com/Randimasl/MANISHA-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-grey?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
- </p>
- 
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-              
+      
 <div align="center">
 	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="manisha">
 </div>
@@ -38,8 +32,4 @@
 # <a href="https://chat.whatsapp.com/IEEUnyvlnCqDeuFw1DEsWk"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br>
-</p>
-    <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+MANISHA-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY;MANISHA SASMITHA" alt="Typing SVG" /></a>
-<a><img src= https://i.imgur.com/LyHic3i.gif /></a><a><img src= https://i.imgur.com/LyHic3i.gif /></a>
-<div align="center">
+    
